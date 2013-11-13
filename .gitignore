@@ -20,3 +20,5 @@ logs/
 
 media/
 static/
+
+.csv
